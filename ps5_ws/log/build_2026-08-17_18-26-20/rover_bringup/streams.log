@@ -1,0 +1,25 @@
+[0.823s] Invoking command in '/home/jhanvi/ps5_ws/build/rover_bringup': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhanvi/ps5_ws/build/rover_bringup/build --no-deps symlink_data
+[1.061s] running develop
+[1.199s] running egg_info
+[1.199s] creating rover_bringup.egg-info
+[1.200s] writing rover_bringup.egg-info/PKG-INFO
+[1.200s] writing dependency_links to rover_bringup.egg-info/dependency_links.txt
+[1.200s] writing entry points to rover_bringup.egg-info/entry_points.txt
+[1.200s] writing requirements to rover_bringup.egg-info/requires.txt
+[1.200s] writing top-level names to rover_bringup.egg-info/top_level.txt
+[1.200s] writing manifest file 'rover_bringup.egg-info/SOURCES.txt'
+[1.201s] reading manifest file 'rover_bringup.egg-info/SOURCES.txt'
+[1.202s] writing manifest file 'rover_bringup.egg-info/SOURCES.txt'
+[1.203s] running build_ext
+[1.204s] Creating /home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages/rover-bringup.egg-link (link to .)
+[1.205s] 
+[1.205s] Installed /home/jhanvi/ps5_ws/build/rover_bringup
+[1.205s] running symlink_data
+[1.205s] creating /home/jhanvi/ps5_ws/install/rover_bringup/share/ament_index
+[1.205s] creating /home/jhanvi/ps5_ws/install/rover_bringup/share/ament_index/resource_index
+[1.205s] creating /home/jhanvi/ps5_ws/install/rover_bringup/share/ament_index/resource_index/packages
+[1.205s] symbolically linking /home/jhanvi/ps5_ws/build/rover_bringup/resource/rover_bringup -> /home/jhanvi/ps5_ws/install/rover_bringup/share/ament_index/resource_index/packages
+[1.205s] symbolically linking /home/jhanvi/ps5_ws/build/rover_bringup/package.xml -> /home/jhanvi/ps5_ws/install/rover_bringup/share/rover_bringup
+[1.205s] creating /home/jhanvi/ps5_ws/install/rover_bringup/share/rover_bringup/launch
+[1.206s] symbolically linking /home/jhanvi/ps5_ws/build/rover_bringup/rover_bringup/rover_teleop.launch.py -> /home/jhanvi/ps5_ws/install/rover_bringup/share/rover_bringup/launch
+[1.257s] Invoked command in '/home/jhanvi/ps5_ws/build/rover_bringup' returned '0': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jhanvi/ps5_ws/build/rover_bringup/build --no-deps symlink_data

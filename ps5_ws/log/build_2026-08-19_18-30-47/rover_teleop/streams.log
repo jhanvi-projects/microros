@@ -1,0 +1,24 @@
+[0.923s] Invoking command in '/home/jhanvi/ps5_ws/src/rover_teleop': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_teleop/prefix_override:/home/jhanvi/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_teleop build --build-base /home/jhanvi/ps5_ws/build/rover_teleop/build install --record /home/jhanvi/ps5_ws/build/rover_teleop/install.log --install-scripts $base/lib/rover_teleop --single-version-externally-managed install_data
+[1.155s] running egg_info
+[1.156s] writing ../../build/rover_teleop/rover_teleop.egg-info/PKG-INFO
+[1.156s] writing dependency_links to ../../build/rover_teleop/rover_teleop.egg-info/dependency_links.txt
+[1.156s] writing entry points to ../../build/rover_teleop/rover_teleop.egg-info/entry_points.txt
+[1.156s] writing requirements to ../../build/rover_teleop/rover_teleop.egg-info/requires.txt
+[1.156s] writing top-level names to ../../build/rover_teleop/rover_teleop.egg-info/top_level.txt
+[1.158s] reading manifest file '../../build/rover_teleop/rover_teleop.egg-info/SOURCES.txt'
+[1.163s] writing manifest file '../../build/rover_teleop/rover_teleop.egg-info/SOURCES.txt'
+[1.163s] running build
+[1.163s] running build_py
+[1.164s] copying rover_teleop/ps5_to_cmdvel.py -> /home/jhanvi/ps5_ws/build/rover_teleop/build/lib/rover_teleop
+[1.164s] running install
+[1.164s] running install_lib
+[1.167s] copying /home/jhanvi/ps5_ws/build/rover_teleop/build/lib/rover_teleop/ps5_to_cmdvel.py -> /home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages/rover_teleop
+[1.167s] byte-compiling /home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages/rover_teleop/ps5_to_cmdvel.py to ps5_to_cmdvel.cpython-310.pyc
+[1.168s] running install_data
+[1.168s] running install_egg_info
+[1.170s] removing '/home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages/rover_teleop-0.0.0-py3.10.egg-info' (and everything under it)
+[1.170s] Copying ../../build/rover_teleop/rover_teleop.egg-info to /home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages/rover_teleop-0.0.0-py3.10.egg-info
+[1.171s] running install_scripts
+[1.191s] Installing ps5_to_cmdvel script to /home/jhanvi/ps5_ws/install/rover_teleop/lib/rover_teleop
+[1.192s] writing list of installed files to '/home/jhanvi/ps5_ws/build/rover_teleop/install.log'
+[1.236s] Invoked command in '/home/jhanvi/ps5_ws/src/rover_teleop' returned '0': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_teleop/prefix_override:/home/jhanvi/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_teleop build --build-base /home/jhanvi/ps5_ws/build/rover_teleop/build install --record /home/jhanvi/ps5_ws/build/rover_teleop/install.log --install-scripts $base/lib/rover_teleop --single-version-externally-managed install_data

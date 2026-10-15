@@ -1,0 +1,20 @@
+[0.872s] Invoking command in '/home/jhanvi/ps5_ws/src/rover_bringup': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_bringup/prefix_override:/home/jhanvi/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_bringup build --build-base /home/jhanvi/ps5_ws/build/rover_bringup/build install --record /home/jhanvi/ps5_ws/build/rover_bringup/install.log --install-scripts $base/lib/rover_bringup --single-version-externally-managed install_data
+[1.103s] running egg_info
+[1.103s] writing ../../build/rover_bringup/rover_bringup.egg-info/PKG-INFO
+[1.104s] writing dependency_links to ../../build/rover_bringup/rover_bringup.egg-info/dependency_links.txt
+[1.104s] writing entry points to ../../build/rover_bringup/rover_bringup.egg-info/entry_points.txt
+[1.104s] writing requirements to ../../build/rover_bringup/rover_bringup.egg-info/requires.txt
+[1.104s] writing top-level names to ../../build/rover_bringup/rover_bringup.egg-info/top_level.txt
+[1.107s] reading manifest file '../../build/rover_bringup/rover_bringup.egg-info/SOURCES.txt'
+[1.108s] writing manifest file '../../build/rover_bringup/rover_bringup.egg-info/SOURCES.txt'
+[1.108s] running build
+[1.108s] running build_py
+[1.108s] running install
+[1.108s] running install_lib
+[1.110s] running install_data
+[1.110s] running install_egg_info
+[1.113s] removing '/home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages/rover_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[1.113s] Copying ../../build/rover_bringup/rover_bringup.egg-info to /home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages/rover_bringup-0.0.0-py3.10.egg-info
+[1.114s] running install_scripts
+[1.135s] writing list of installed files to '/home/jhanvi/ps5_ws/build/rover_bringup/install.log'
+[1.179s] Invoked command in '/home/jhanvi/ps5_ws/src/rover_bringup' returned '0': PS1=\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ PYTHONPATH=/home/jhanvi/ps5_ws/build/rover_bringup/prefix_override:/home/jhanvi/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/jhanvi/ps5_ws/install/rover_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rover_bringup build --build-base /home/jhanvi/ps5_ws/build/rover_bringup/build install --record /home/jhanvi/ps5_ws/build/rover_bringup/install.log --install-scripts $base/lib/rover_bringup --single-version-externally-managed install_data
